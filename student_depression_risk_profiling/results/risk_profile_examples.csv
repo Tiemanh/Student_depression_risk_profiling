@@ -1,0 +1,11 @@
+feature,feature_vi,weight,direction
+Suy nghĩ tự làm hại bản thân = Không <= 0.00,Suy nghĩ tự làm hại bản thân = Không <= 0.00,0.390094555494604,Làm tăng nguy cơ
+Áp lực học tập > 0.62,Áp lực học tập > 0.62,0.287092220314438,Làm tăng nguy cơ
+Thói quen ăn uống = Khác <= 0.00,Thói quen ăn uống = Khác <= 0.00,-0.16130280886562098,Làm giảm nguy cơ
+-0.09 < Áp lực tài chính <= 0.60,-0.09 < Áp lực tài chính <= 0.60,0.08008469883045954,Làm tăng nguy cơ
+Bậc học/ngành học = MHM <= 0.00,Bậc học/ngành học = MHM <= 0.00,-0.07560431883577097,Làm giảm nguy cơ
+0.00 < Thói quen ăn uống = Không lành mạnh <= 1.00,0.00 < Thói quen ăn uống = Không lành mạnh <= 1.00,0.07414821946754525,Làm tăng nguy cơ
+Nghề nghiệp/trạng thái = Lawyer <= 0.00,Nghề nghiệp/trạng thái = Lawyer <= 0.00,0.06853976255454665,Làm tăng nguy cơ
+Hài lòng với việc học <= -0.69,Hài lòng với việc học <= -0.69,0.06490696371710747,Làm tăng nguy cơ
+Thói quen ăn uống = Lành mạnh <= 0.00,Thói quen ăn uống = Lành mạnh <= 0.00,0.06332957257832829,Làm tăng nguy cơ
+Nghề nghiệp/trạng thái = Teacher <= 0.00,Nghề nghiệp/trạng thái = Teacher <= 0.00,-0.03217033051538019,Làm giảm nguy cơ

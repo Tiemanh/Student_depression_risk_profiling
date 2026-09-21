@@ -1,0 +1,2 @@
+evaluation_split,threshold_selected_on,best_threshold,accuracy,precision,recall,f1,roc_auc,false_negative,false_positive,true_negative,true_positive
+test,validation,0.32,0.8373148590539895,0.8285077951002228,0.9106487148102815,0.8676384839650145,0.9158604909835072,219,462,1273,2232

@@ -1,0 +1,66 @@
+feature_raw,feature_vi,mean_abs_shap,mean_abs_shap_label
+suicidal_thoughts_No,Suy nghĩ tự làm hại bản thân = Không,1.3427498141398015,1.3427498141398015
+academic_pressure,Áp lực học tập,0.9782572923084373,0.9782572923084373
+financial_stress,Áp lực tài chính,0.6734144185891489,0.6734144185891489
+age,Tuổi,0.3964313861218133,0.3964313861218133
+work_study_hours,Số giờ học/làm mỗi ngày,0.3496286412253347,0.3496286412253347
+dietary_habits_Unhealthy,Thói quen ăn uống = Không lành mạnh,0.25976199893625573,0.25976199893625573
+study_satisfaction,Hài lòng với việc học,0.24401870358134778,0.24401870358134778
+dietary_habits_Healthy,Thói quen ăn uống = Lành mạnh,0.17083969874824828,0.17083969874824828
+sleep_duration_Less than 5 hours,Thời lượng ngủ = Dưới 5 giờ,0.12862981458544923,0.12862981458544923
+family_history_No,Tiền sử gia đình về sức khỏe tinh thần = Không,0.10179048270345352,0.10179048270345352
+cgpa,CGPA/điểm trung bình,0.0962913141034549,0.0962913141034549
+sleep_duration_More than 8 hours,Thời lượng ngủ = Trên 8 giờ,0.075025570103179,0.075025570103179
+id,id,0.06892825743738365,0.06892825743738365
+degree_B.Arch,Bậc học/ngành học = B.Arch,0.025748586568120665,0.025748586568120665
+degree_B.Ed,Bậc học/ngành học = B.Ed,0.013411185082495801,0.013411185082495801
+gender_Female,Giới tính = Nữ,0.012149145662035394,0.012149145662035394
+degree_B.Tech,Bậc học/ngành học = B.Tech,0.011302005863115397,0.011302005863115397
+dietary_habits_Moderate,Thói quen ăn uống = Trung bình,0.010910437844407206,0.010910437844407206
+sleep_duration_5-6 hours,Thời lượng ngủ = 5–6 giờ,0.008487623625218427,0.008487623625218427
+degree_MA,Bậc học/ngành học = MA,0.007610243187904717,0.007610243187904717
+degree_MCA,Bậc học/ngành học = MCA,0.0075932113126147265,0.0075932113126147265
+sleep_duration_7-8 hours,Thời lượng ngủ = 7–8 giờ,0.0073283505083439025,0.0073283505083439025
+degree_PhD,Bậc học/ngành học = PhD,0.007284936825211945,0.007284936825211945
+degree_LLB,Bậc học/ngành học = LLB,0.007265683163335134,0.007265683163335134
+degree_BSc,Bậc học/ngành học = BSc,0.007039348062651856,0.007039348062651856
+degree_MBBS,Bậc học/ngành học = MBBS,0.006128956397334997,0.006128956397334997
+degree_B.Com,Bậc học/ngành học = B.Com,0.005487215156619479,0.005487215156619479
+degree_MSc,Bậc học/ngành học = MSc,0.00547440248975304,0.00547440248975304
+degree_LLM,Bậc học/ngành học = LLM,0.005140012509251966,0.005140012509251966
+degree_BCA,Bậc học/ngành học = BCA,0.00508536992105064,0.00508536992105064
+degree_BHM,Bậc học/ngành học = BHM,0.0050582650704980425,0.0050582650704980425
+degree_Class 12,Bậc học/ngành học = Class 12,0.005043511913979301,0.005043511913979301
+degree_ME,Bậc học/ngành học = ME,0.0049271845904048945,0.0049271845904048945
+degree_BE,Bậc học/ngành học = BE,0.004751493293022312,0.004751493293022312
+suicidal_thoughts_Yes,Suy nghĩ tự làm hại bản thân = Có,0.0043129969109468565,0.0043129969109468565
+degree_BA,Bậc học/ngành học = BA,0.004050362888595173,0.004050362888595173
+degree_B.Pharm,Bậc học/ngành học = B.Pharm,0.003845343962533907,0.003845343962533907
+degree_MBA,Bậc học/ngành học = MBA,0.0035717743297700214,0.0035717743297700214
+degree_M.Pharm,Bậc học/ngành học = M.Pharm,0.0030952785091296793,0.0030952785091296793
+family_history_Yes,Tiền sử gia đình về sức khỏe tinh thần = Có,0.002872648527731388,0.002872648527731388
+degree_M.Com,Bậc học/ngành học = M.Com,0.0027599743576196306,0.0027599743576196306
+degree_BBA,Bậc học/ngành học = BBA,0.0026236410425600535,0.0026236410425600535
+gender_Male,Giới tính = Nam,0.0025266818724994427,0.0025266818724994427
+degree_M.Ed,Bậc học/ngành học = M.Ed,0.0024524049761599194,0.0024524049761599194
+profession_Student,Nghề nghiệp/trạng thái = Sinh viên,0.00231280023847184,0.00231280023847184
+degree_MD,Bậc học/ngành học = MD,0.002311417365105563,0.002311417365105563
+degree_M.Tech,Bậc học/ngành học = M.Tech,0.0011909088347013465,0.0011909088347013465
+degree_MHM,Bậc học/ngành học = MHM,0.0004678563626617525,0.0004678563626617525
+profession_Doctor,Nghề nghiệp/trạng thái = Doctor,0.0,0.0
+dietary_habits_Others,Thói quen ăn uống = Khác,0.0,0.0
+sleep_duration_Others,Thời lượng ngủ = Khác,0.0,0.0
+profession_Educational Consultant,Nghề nghiệp/trạng thái = Educational Consultant,0.0,0.0
+profession_Entrepreneur,Nghề nghiệp/trạng thái = Entrepreneur,0.0,0.0
+profession_Manager,Nghề nghiệp/trạng thái = Manager,0.0,0.0
+profession_Lawyer,Nghề nghiệp/trạng thái = Lawyer,0.0,0.0
+profession_Pharmacist,Nghề nghiệp/trạng thái = Pharmacist,0.0,0.0
+profession_Teacher,Nghề nghiệp/trạng thái = Teacher,0.0,0.0
+job_satisfaction,Hài lòng với công việc/việc làm thêm,0.0,0.0
+work_pressure,Áp lực công việc/việc làm thêm,0.0,0.0
+profession_Architect,Nghề nghiệp/trạng thái = Architect,0.0,0.0
+profession_Chef,Nghề nghiệp/trạng thái = Chef,0.0,0.0
+profession_Civil Engineer,Nghề nghiệp/trạng thái = Civil Engineer,0.0,0.0
+profession_Content Writer,Nghề nghiệp/trạng thái = Content Writer,0.0,0.0
+profession_Digital Marketer,Nghề nghiệp/trạng thái = Digital Marketer,0.0,0.0
+degree_Others,Bậc học/ngành học = Khác,0.0,0.0
